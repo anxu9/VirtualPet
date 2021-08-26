@@ -37,7 +37,7 @@ void draw ()
   ellipse(275,185,8,8);
   fill(0,100,0); //green part of carrot
   triangle(110,300,90,250,105,240);
-  triangle(115,300,108,240,123,240);
+  triangle(115,300,108,240,122,240);
   triangle(120,300,125,240,140,250);
   fill(255,131,0); //carrot
   triangle(90,270,140,270,115,360);
